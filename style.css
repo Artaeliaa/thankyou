@@ -231,3 +231,7 @@ section img#mountains_front{
 .footer{
    background-color: #1c0522;
 }
+
+div.center{
+    text-align: center;
+}
